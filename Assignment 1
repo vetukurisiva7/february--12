@@ -1,0 +1,21 @@
+a=int(input('enter a value'))
+
+b=int(input('enter b value'))
+
+if a==b:
+
+      print('a & b are equal')
+
+if a!=b:
+
+      print('a & b are not eqaul')
+
+      
+
+if a>b:
+
+      print('a is greater than b ')
+
+if a<b :
+
+      print('b greater than a ')
